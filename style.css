@@ -418,18 +418,22 @@ img {
 
 #main h1:nth-child(1) span {
     animation-delay: .5s;
+    background-color: #ffffff;
 }
 
 #main h1:nth-child(2) span {
     animation-delay: 1.5s;
+    background-color: #ffffff;
 }
 
 #main h1:nth-child(3) span {
     animation-delay: 2.5s;
+    background-color: rgb(248, 57, 95);
 }
 
 #main h1:nth-child(4) span {
     animation-delay: 3.5s;
+    background-color: #03f899;
 }
 
 #main .cta {
@@ -438,7 +442,7 @@ img {
     color: white;
     background-color: transparent;
     border: 2px solid #03f899;
-    /* border-radius: 10px; */
+    
     font-size: 2rem;
     text-transform: uppercase;
     letter-spacing: .1rem;
